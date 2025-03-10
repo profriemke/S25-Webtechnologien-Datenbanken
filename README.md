@@ -1,1 +1,1 @@
-# S25-Webtechnologien-Datenbanken
+# Code zur Lehrveranstaltung Webtechnologien-Datenbanken Sommersemester 2025
